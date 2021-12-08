@@ -1,5 +1,5 @@
 import time
-from webbot import Browser
+from subbot import Browser
 import pyautogui # its use for keyboard inputs.
 import win32console,win32gui
 
